@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%;
+    background-color: aquamarine;
+}
+#template{
+    margin: 250px;
+    justify-content: center;
+    text-transform: capitalize;
+    background-color: antiquewhite;
+    color: mediumblue;
+    text-align: center;
+    display: flex;
+}
